@@ -5,8 +5,8 @@
 The project focuses on making design decision for a Smart Grid.
 ## Methodology
 
-# Results
+## Results
 
-# Tools used (Python, Excel, etc.)
+## Tools used (Python, Excel, etc.)
 
-# Next steps
+## Next steps
